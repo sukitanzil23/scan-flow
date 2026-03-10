@@ -1,1 +1,39 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5udW1zY2FuCgppbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudAppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGUKaW1wb3J0IGFuZHJvaWQudmlldy5hbmltYXRpb24uQW5pbWF0aW9uVXRpbHMKaW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHkKaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5idXR0b24uTWF0ZXJpYWxCdXR0b24KaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5jYXJkLk1hdGVyaWFsQ2FyZFZpZXcKCmNsYXNzIE1haW5BY3Rpdml0eSA6IEFwcENvbXBhdEFjdGl2aXR5KCkgewoKICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKCiAgICAgICAgdmFsIGJ0blN0YXJ0ID0gZmluZFZpZXdCeUlkPE1hdGVyaWFsQnV0dG9uPihSLmlkLmJ0blN0YXJ0U2NhbikKICAgICAgICB2YWwgaWNvbkNhcmQgPSBmaW5kVmlld0J5SWQ8TWF0ZXJpYWxDYXJkVmlldz4oUi5pZC5pdkFwcEljb24pCgogICAgICAgIC8vIEVudHJhbmNlIGFuaW1hdGlvbnMKICAgICAgICB2YWwgZmFkZUluID0gQW5pbWF0aW9uVXRpbHMubG9hZEFuaW1hdGlvbih0aGlzLCBSLmFuaW0uZmFkZV9pbikKICAgICAgICB2YWwgc2NhbGVJbiA9IEFuaW1hdGlvblV0aWxzLmxvYWRBbmltYXRpb24odGhpcywgUi5hbmltLnNjYWxlX2luKQogICAgICAgIHZhbCBzbGlkZVVwID0gQW5pbWF0aW9uVXRpbHMubG9hZEFuaW1hdGlvbih0aGlzLCBSLmFuaW0uc2xpZGVfdXApCgogICAgICAgIGljb25DYXJkLnN0YXJ0QW5pbWF0aW9uKHNjYWxlSW4pCiAgICAgICAgYnRuU3RhcnQuc3RhcnRBbmltYXRpb24oc2xpZGVVcCkKCiAgICAgICAgYnRuU3RhcnQuc2V0T25DbGlja0xpc3RlbmVyIHsKICAgICAgICAgICAgaXQuYW5pbWF0ZSgpCiAgICAgICAgICAgICAgICAuc2NhbGVYKDAuOTVmKQogICAgICAgICAgICAgICAgLnNjYWxlWSgwLjk1ZikKICAgICAgICAgICAgICAgIC5zZXREdXJhdGlvbigxMDApCiAgICAgICAgICAgICAgICAud2l0aEVuZEFjdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgaXQuYW5pbWF0ZSgpLnNjYWxlWCgxZikuc2NhbGVZKDFmKS5zZXREdXJhdGlvbigxMDApLnN0YXJ0KCkKICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudCh0aGlzLCBTY2FuQWN0aXZpdHk6OmNsYXNzLmphdmEpKQogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlUGVuZGluZ1RyYW5zaXRpb24oUi5hbmltLmZhZGVfaW4sIFIuYW5pbS5zbGlkZV9kb3duKQogICAgICAgICAgICAgICAgfS5zdGFydCgpCiAgICAgICAgfQogICAgfQp9Cg==
+package com.example.numscan
+
+import android.content.Intent
+import android.os.Bundle
+import android.view.animation.AnimationUtils
+import androidx.appcompat.app.AppCompatActivity
+import com.google.android.material.button.MaterialButton
+import com.google.android.material.card.MaterialCardView
+
+class MainActivity : AppCompatActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val btnStart = findViewById<MaterialButton>(R.id.btnStartScan)
+        val iconCard = findViewById<MaterialCardView>(R.id.ivAppIcon)
+
+        // Entrance animations
+        val fadeIn = AnimationUtils.loadAnimation(this, R.anim.fade_in)
+        val scaleIn = AnimationUtils.loadAnimation(this, R.anim.scale_in)
+        val slideUp = AnimationUtils.loadAnimation(this, R.anim.slide_up)
+
+        iconCard.startAnimation(scaleIn)
+        btnStart.startAnimation(slideUp)
+
+        btnStart.setOnClickListener {
+            it.animate()
+                .scaleX(0.95f)
+                .scaleY(0.95f)
+                .setDuration(100)
+                .withEndAction {
+                    it.animate().scaleX(1f).scaleY(1f).setDuration(100).start()
+                    startActivity(Intent(this, ScanActivity::class.java))
+                    overridePendingTransition(R.anim.fade_in, R.anim.slide_down)
+                }.start()
+        }
+    }
+}
