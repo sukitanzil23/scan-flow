@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">NumScan</string>
-    <string name="app_subtitle">Scan &amp; detect phone numbers instantly</string>
-    <string name="start_scanning">Start Scanning</string>
-    <string name="camera_permission_required">Camera permission is required to scan phone numbers. Please grant access to continue.</string>
-    <string name="grant_permission">Grant Permission</string>
-    <string name="detected_number">Detected: %s</string>
-    <string name="numbers_detected">%d number(s) detected — tap to copy</string>
-    <string name="copied_to_clipboard">Copied to clipboard!</string>
-    <string name="no_numbers_found">Point camera at phone numbers</string>
-    <string name="scan_hint">Align numbers within the frame</string>
-</resources>
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlcz4KICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPk51bVNjYW48L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iYXBwX3N1YnRpdGxlIj5TY2FuICZhbXA7IGRldGVjdCBwaG9uZSBudW1iZXJzIGluc3RhbnRseTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJzdGFydF9zY2FubmluZyI+U3RhcnQgU2Nhbm5pbmc8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FtZXJhX3Blcm1pc3Npb25fcmVxdWlyZWQiPkNhbWVyYSBwZXJtaXNzaW9uIGlzIHJlcXVpcmVkIHRvIHNjYW4gcGhvbmUgbnVtYmVycy4gUGxlYXNlIGdyYW50IGFjY2VzcyB0byBjb250aW51ZS48L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iZ3JhbnRfcGVybWlzc2lvbiI+R3JhbnQgUGVybWlzc2lvbjwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJkZXRlY3RlZF9udW1iZXIiPkRldGVjdGVkOiAlczwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJudW1iZXJzX2RldGVjdGVkIj4lZCBudW1iZXIocykgZGV0ZWN0ZWQg4oCUIHRhcCB0byBjb3B5PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNvcGllZF90b19jbGlwYm9hcmQiPkNvcGllZCB0byBjbGlwYm9hcmQhPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9Im5vX251bWJlcnNfZm91bmQiPlBvaW50IGNhbWVyYSBhdCBwaG9uZSBudW1iZXJzPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9InNjYW5faGludCI+QWxpZ24gbnVtYmVycyB3aXRoaW4gdGhlIGZyYW1lPC9zdHJpbmc+CjwvcmVzb3VyY2VzPgo=
