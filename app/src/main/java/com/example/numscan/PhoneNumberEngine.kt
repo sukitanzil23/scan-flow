@@ -1,1 +1,85 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5udW1zY2FuCgppbXBvcnQgamF2YS51dGlsLnJlZ2V4LlBhdHRlcm4KCmRhdGEgY2xhc3MgUGhvbmVOdW1iZXJSZXN1bHQoCiAgICB2YWwgcmF3TnVtYmVyOiBTdHJpbmcsCiAgICB2YWwgY291bnRyeUNvZGU6IFN0cmluZz8sCiAgICB2YWwgbmF0aW9uYWxOdW1iZXI6IFN0cmluZywKICAgIHZhbCBpc1ZhbGlkOiBCb29sZWFuLAogICAgdmFsIGZvcm1hdHRlZE51bWJlcjogU3RyaW5nCikKCm9iamVjdCBQaG9uZU51bWJlckVuZ2luZSB7CgogICAgcHJpdmF0ZSB2YWwgUEhPTkVfUEFUVEVSTlMgPSBsaXN0T2YoCiAgICAgICAgLy8gSW50ZXJuYXRpb25hbCB3aXRoICsgcHJlZml4CiAgICAgICAgUGF0dGVybi5jb21waWxlKCIiIihcK1xkezEsM31bXHNcLS5dP1woP1xkezEsNH1cKT9bXHNcLS5dP1xkezEsNH1bXHNcLS5dP1xkezEsOX0pIiIiKSwKICAgICAgICAvLyBVUy9DYW5hZGE6ICgxMjMpIDQ1Ni03ODkwIG9yIDEyMy00NTYtNzg5MAogICAgICAgIFBhdHRlcm4uY29tcGlsZSgiIiIoXCg/XGR7M31cKT9bXHNcLS5dP1xkezN9W1xzXC0uXT9cZHs0fSkiIiIpLAogICAgICAgIC8vIEdlbmVyaWMgbG9uZyBudW1iZXIKICAgICAgICBQYXR0ZXJuLmNvbXBpbGUoIiIiKFxkezIsNH1bXHNcLS5dP1xkezMsNH1bXHNcLS5dP1xkezMsNH0pIiIiKQogICAgKQoKICAgIHByaXZhdGUgdmFsIENPVU5UUllfQ09ERVMgPSBtYXBPZigKICAgICAgICAiKzEiIHRvICJVUy9DQSIsICIrNDQiIHRvICJVSyIsICIrNjEiIHRvICJBVSIsICIrMzMiIHRvICJGUiIsCiAgICAgICAgIis0OSIgdG8gIkRFIiwgIis4MSIgdG8gIkpQIiwgIis4MiIgdG8gIktSIiwgIis4NiIgdG8gIkNOIiwKICAgICAgICAiKzkxIiB0byAiSU4iLCAiKzU1IiB0byAiQlIiLCAiKzUyIiB0byAiTVgiLCAiKzciIHRvICJSVSIsCiAgICAgICAgIiszOSIgdG8gIklUIiwgIiszNCIgdG8gIkVTIiwgIiszMSIgdG8gIk5MIiwgIis0NiIgdG8gIlNFIiwKICAgICAgICAiKzQ3IiB0byAiTk8iLCAiKzQ1IiB0byAiREsiLCAiKzQxIiB0byAiQ0giLCAiKzQzIiB0byAiQVQiLAogICAgICAgICIrNjYiIHRvICJUSCIsICIrNjUiIHRvICJTRyIsICIrNjAiIHRvICJNWSIsICIrNjIiIHRvICJJRCIsCiAgICAgICAgIis2MyIgdG8gIlBIIiwgIis4NCIgdG8gIlZOIiwgIis4NTIiIHRvICJISyIsICIrODg2IiB0byAiVFciCiAgICApCgogICAgZnVuIGV4dHJhY3RQaG9uZU51bWJlcnModGV4dDogU3RyaW5nKTogTGlzdDxQaG9uZU51bWJlclJlc3VsdD4gewogICAgICAgIHZhbCByZXN1bHRzID0gbXV0YWJsZUxpc3RPZjxQaG9uZU51bWJlclJlc3VsdD4oKQogICAgICAgIHZhbCBzZWVuID0gbXV0YWJsZVNldE9mPFN0cmluZz4oKQoKICAgICAgICBmb3IgKHBhdHRlcm4gaW4gUEhPTkVfUEFUVEVSTlMpIHsKICAgICAgICAgICAgdmFsIG1hdGNoZXIgPSBwYXR0ZXJuLm1hdGNoZXIodGV4dCkKICAgICAgICAgICAgd2hpbGUgKG1hdGNoZXIuZmluZCgpKSB7CiAgICAgICAgICAgICAgICB2YWwgcmF3ID0gbWF0Y2hlci5ncm91cCgxKT8udHJpbSgpID86IGNvbnRpbnVlCiAgICAgICAgICAgICAgICB2YWwgbm9ybWFsaXplZCA9IHJhdy5yZXBsYWNlKFJlZ2V4KCIiIltcc1wtLigpXHUwMEEwXSIiIiksICIiKQogICAgICAgICAgICAgICAgaWYgKG5vcm1hbGl6ZWQubGVuZ3RoIDwgNyB8fCBub3JtYWxpemVkLmxlbmd0aCA+IDE1KSBjb250aW51ZQogICAgICAgICAgICAgICAgaWYgKHNlZW4uY29udGFpbnMobm9ybWFsaXplZCkpIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBzZWVuLmFkZChub3JtYWxpemVkKQoKICAgICAgICAgICAgICAgIHZhbCBjb3VudHJ5Q29kZSA9IGRldGVjdENvdW50cnlDb2RlKG5vcm1hbGl6ZWQpCiAgICAgICAgICAgICAgICB2YWwgbmF0aW9uYWwgPSBpZiAoY291bnRyeUNvZGUgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIG5vcm1hbGl6ZWQucmVtb3ZlUHJlZml4KGNvdW50cnlDb2RlLmZpcnN0KQogICAgICAgICAgICAgICAgfSBlbHNlIG5vcm1hbGl6ZWQKCiAgICAgICAgICAgICAgICB2YWwgcmVzdWx0ID0gUGhvbmVOdW1iZXJSZXN1bHQoCiAgICAgICAgICAgICAgICAgICAgcmF3TnVtYmVyID0gcmF3LAogICAgICAgICAgICAgICAgICAgIGNvdW50cnlDb2RlID0gY291bnRyeUNvZGU/LnNlY29uZCwKICAgICAgICAgICAgICAgICAgICBuYXRpb25hbE51bWJlciA9IG5hdGlvbmFsLAogICAgICAgICAgICAgICAgICAgIGlzVmFsaWQgPSBpc1ZhbGlkTGVuZ3RoKG5vcm1hbGl6ZWQpLAogICAgICAgICAgICAgICAgICAgIGZvcm1hdHRlZE51bWJlciA9IGZvcm1hdChyYXcsIGNvdW50cnlDb2RlPy5zZWNvbmQpCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICByZXN1bHRzLmFkZChyZXN1bHQpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdHMuZGlzdGluY3RCeSB7IGl0LmZvcm1hdHRlZE51bWJlciB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZGV0ZWN0Q291bnRyeUNvZGUobm9ybWFsaXplZDogU3RyaW5nKTogUGFpcjxTdHJpbmcsIFN0cmluZz4/IHsKICAgICAgICBpZiAoIW5vcm1hbGl6ZWQuc3RhcnRzV2l0aCgiKyIpKSByZXR1cm4gbnVsbAogICAgICAgIC8vIFRyeSBsb25nZXN0IG1hdGNoIGZpcnN0CiAgICAgICAgZm9yIChsZW4gaW4gNCBkb3duVG8gMikgewogICAgICAgICAgICBpZiAobm9ybWFsaXplZC5sZW5ndGggPj0gbGVuKSB7CiAgICAgICAgICAgICAgICB2YWwgcHJlZml4ID0gbm9ybWFsaXplZC5zdWJzdHJpbmcoMCwgbGVuKQogICAgICAgICAgICAgICAgQ09VTlRSWV9DT0RFU1twcmVmaXhdPy5sZXQgeyByZXR1cm4gUGFpcihwcmVmaXgsIGl0KSB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGwKICAgIH0KCiAgICBwcml2YXRlIGZ1biBpc1ZhbGlkTGVuZ3RoKG5vcm1hbGl6ZWQ6IFN0cmluZyk6IEJvb2xlYW4gewogICAgICAgIHZhbCBkaWdpdHMgPSBub3JtYWxpemVkLmZpbHRlciB7IGl0LmlzRGlnaXQoKSB9CiAgICAgICAgcmV0dXJuIGRpZ2l0cy5sZW5ndGggaW4gNy4uMTUKICAgIH0KCiAgICBwcml2YXRlIGZ1biBmb3JtYXQocmF3OiBTdHJpbmcsIGNvdW50cnlOYW1lOiBTdHJpbmc/KTogU3RyaW5nIHsKICAgICAgICByZXR1cm4gcmF3LnRyaW0oKQogICAgfQp9Cg==
+package com.example.numscan
+
+import java.util.regex.Pattern
+
+data class PhoneNumberResult(
+    val rawNumber: String,
+    val countryCode: String?,
+    val nationalNumber: String,
+    val isValid: Boolean,
+    val formattedNumber: String
+)
+
+object PhoneNumberEngine {
+
+    private val PHONE_PATTERNS = listOf(
+        // International with + prefix
+        Pattern.compile("""(\+\d{1,3}[\s\-.]?\(?\d{1,4}\)?[\s\-.]?\d{1,4}[\s\-.]?\d{1,9})"""),
+        // US/Canada: (123) 456-7890 or 123-456-7890
+        Pattern.compile("""(\(?\d{3}\)?[\s\-.]?\d{3}[\s\-.]?\d{4})"""),
+        // Generic long number
+        Pattern.compile("""(\d{2,4}[\s\-.]?\d{3,4}[\s\-.]?\d{3,4})""")
+    )
+
+    private val COUNTRY_CODES = mapOf(
+        "+1" to "US/CA", "+44" to "UK", "+61" to "AU", "+33" to "FR",
+        "+49" to "DE", "+81" to "JP", "+82" to "KR", "+86" to "CN",
+        "+91" to "IN", "+55" to "BR", "+52" to "MX", "+7" to "RU",
+        "+39" to "IT", "+34" to "ES", "+31" to "NL", "+46" to "SE",
+        "+47" to "NO", "+45" to "DK", "+41" to "CH", "+43" to "AT",
+        "+66" to "TH", "+65" to "SG", "+60" to "MY", "+62" to "ID",
+        "+63" to "PH", "+84" to "VN", "+852" to "HK", "+886" to "TW"
+    )
+
+    fun extractPhoneNumbers(text: String): List<PhoneNumberResult> {
+        val results = mutableListOf<PhoneNumberResult>()
+        val seen = mutableSetOf<String>()
+
+        for (pattern in PHONE_PATTERNS) {
+            val matcher = pattern.matcher(text)
+            while (matcher.find()) {
+                val raw = matcher.group(1)?.trim() ?: continue
+                val normalized = raw.replace(Regex("""[\s\-.() ]"""), "")
+                if (normalized.length < 7 || normalized.length > 15) continue
+                if (seen.contains(normalized)) continue
+                seen.add(normalized)
+
+                val countryCode = detectCountryCode(normalized)
+                val national = if (countryCode != null) {
+                    normalized.removePrefix(countryCode.first)
+                } else normalized
+
+                val result = PhoneNumberResult(
+                    rawNumber = raw,
+                    countryCode = countryCode?.second,
+                    nationalNumber = national,
+                    isValid = isValidLength(normalized),
+                    formattedNumber = format(raw, countryCode?.second)
+                )
+                results.add(result)
+            }
+        }
+        return results.distinctBy { it.formattedNumber }
+    }
+
+    private fun detectCountryCode(normalized: String): Pair<String, String>? {
+        if (!normalized.startsWith("+")) return null
+        // Try longest match first
+        for (len in 4 downTo 2) {
+            if (normalized.length >= len) {
+                val prefix = normalized.substring(0, len)
+                COUNTRY_CODES[prefix]?.let { return Pair(prefix, it) }
+            }
+        }
+        return null
+    }
+
+    private fun isValidLength(normalized: String): Boolean {
+        val digits = normalized.filter { it.isDigit() }
+        return digits.length in 7..15
+    }
+
+    private fun format(raw: String, countryName: String?): String {
+        return raw.trim()
+    }
+}
