@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary palette -->
+    <color name="primary">#00E5FF</color>
+    <color name="primary_dark">#00B2CC</color>
+    <color name="primary_variant">#18FFFF</color>
+    <color name="accent">#FF6D00</color>
+
+    <!-- Background -->
+    <color name="background">#0A0E1A</color>
+    <color name="surface">#111827</color>
+    <color name="surface_elevated">#1C2333</color>
+    <color name="card_background">#141D2E</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="text_hint">#546E7A</color>
+    <color name="text_on_primary">#000000</color>
+
+    <!-- Aliases used in layouts -->
+    <color name="on_background">#FFFFFF</color>
+    <color name="on_background_secondary">#8CA0B8</color>
+
+    <!-- Status -->
+    <color name="success">#00E676</color>
+    <color name="warning">#FFD740</color>
+    <color name="error">#FF5252</color>
+
+    <!-- Scan UI -->
+    <color name="scan_line">#00E5FF</color>
+    <color name="scan_border">#00E5FF</color>
+    <color name="scan_overlay">#99000000</color>
+    <color name="scan_corner">#00E5FF</color>
+
+    <!-- Misc -->
+    <color name="divider">#1E2D3D</color>
+    <color name="ripple">#2000E5FF</color>
+    <color name="badge_background">#1A00E5FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
