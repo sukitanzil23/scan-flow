@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NumScan</string>
+    <string name="app_subtitle">Scan &amp; detect phone numbers instantly</string>
+    <string name="start_scanning">Start Scanning</string>
+    <string name="camera_permission_required">Camera permission is required to scan phone numbers. Please grant access to continue.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="detected_number">Detected: %s</string>
+    <string name="numbers_detected">%d number(s) detected — tap to copy</string>
+    <string name="copied_to_clipboard">Copied to clipboard!</string>
+    <string name="no_numbers_found">Point camera at phone numbers</string>
+    <string name="scan_hint">Align numbers within the frame</string>
+</resources>
