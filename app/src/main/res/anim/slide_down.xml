@@ -1,1 +1,12 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNldCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmludGVycG9sYXRvcj0iQGFuZHJvaWQ6aW50ZXJwb2xhdG9yL2FjY2VsZXJhdGVfY3ViaWMiPgogICAgPHRyYW5zbGF0ZQogICAgICAgIGFuZHJvaWQ6ZHVyYXRpb249IjM1MCIKICAgICAgICBhbmRyb2lkOmZyb21ZRGVsdGE9IjAiCiAgICAgICAgYW5kcm9pZDp0b1lEZWx0YT0iODBkcCIgLz4KICAgIDxhbHBoYQogICAgICAgIGFuZHJvaWQ6ZHVyYXRpb249IjM1MCIKICAgICAgICBhbmRyb2lkOmZyb21BbHBoYT0iMS4wIgogICAgICAgIGFuZHJvaWQ6dG9BbHBoYT0iMC4wIiAvPgo8L3NldD4=
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/accelerate_cubic">
+    <translate
+        android:duration="350"
+        android:fromYDelta="0"
+        android:toYDelta="80dp" />
+    <alpha
+        android:duration="350"
+        android:fromAlpha="1.0"
+        android:toAlpha="0.0" />
+</set>
