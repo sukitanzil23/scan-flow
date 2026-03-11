@@ -1,1 +1,43 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlcz4KICAgIDwhLS0gU3BhY2luZyAtLT4KICAgIDxkaW1lbiBuYW1lPSJzcGFjaW5nX3hzIj40ZHA8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9InNwYWNpbmdfc20iPjhkcDwvZGltZW4+CiAgICA8ZGltZW4gbmFtZT0ic3BhY2luZ19tZCI+MTZkcDwvZGltZW4+CiAgICA8ZGltZW4gbmFtZT0ic3BhY2luZ19sZyI+MjRkcDwvZGltZW4+CiAgICA8ZGltZW4gbmFtZT0ic3BhY2luZ194bCI+MzJkcDwvZGltZW4+CiAgICA8ZGltZW4gbmFtZT0ic3BhY2luZ194eGwiPjQ4ZHA8L2RpbWVuPgoKICAgIDwhLS0gQ2FyZCAtLT4KICAgIDxkaW1lbiBuYW1lPSJjYXJkX2Nvcm5lcl9yYWRpdXMiPjE2ZHA8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9ImNhcmRfZWxldmF0aW9uIj40ZHA8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9ImNhcmRfcGFkZGluZyI+MTZkcDwvZGltZW4+CgogICAgPCEtLSBCdXR0b24gLS0+CiAgICA8ZGltZW4gbmFtZT0iYnV0dG9uX2hlaWdodCI+NTZkcDwvZGltZW4+CiAgICA8ZGltZW4gbmFtZT0iYnV0dG9uX2Nvcm5lcl9yYWRpdXMiPjI4ZHA8L2RpbWVuPgoKICAgIDwhLS0gSWNvbiAtLT4KICAgIDxkaW1lbiBuYW1lPSJpY29uX3NpemVfc20iPjIwZHA8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9Imljb25fc2l6ZV9tZCI+MjRkcDwvZGltZW4+CiAgICA8ZGltZW4gbmFtZT0iaWNvbl9zaXplX2xnIj4zMmRwPC9kaW1lbj4KICAgIDxkaW1lbiBuYW1lPSJpY29uX3NpemVfeGwiPjQ4ZHA8L2RpbWVuPgoKICAgIDwhLS0gVGV4dCAtLT4KICAgIDxkaW1lbiBuYW1lPSJ0ZXh0X3NpemVfY2FwdGlvbiI+MTFzcDwvZGltZW4+CiAgICA8ZGltZW4gbmFtZT0idGV4dF9zaXplX2JvZHkiPjE0c3A8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9InRleHRfc2l6ZV9zdWJ0aXRsZSI+MTZzcDwvZGltZW4+CiAgICA8ZGltZW4gbmFtZT0idGV4dF9zaXplX3RpdGxlIj4yMHNwPC9kaW1lbj4KICAgIDxkaW1lbiBuYW1lPSJ0ZXh0X3NpemVfaGVhZGxpbmUiPjI4c3A8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9InRleHRfc2l6ZV9kaXNwbGF5Ij4zNnNwPC9kaW1lbj4KCiAgICA8IS0tIFNjYW4gd2luZG93IC0tPgogICAgPGRpbWVuIG5hbWU9InNjYW5fd2luZG93X3NpemUiPjI4MGRwPC9kaW1lbj4KICAgIDxkaW1lbiBuYW1lPSJzY2FuX2Nvcm5lcl9sZW5ndGgiPjQwZHA8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9InNjYW5fY29ybmVyX3dpZHRoIj40ZHA8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9InNjYW5fbGluZV9oZWlnaHQiPjJkcDwvZGltZW4+CgogICAgPCEtLSBCb3R0b20gc2hlZXQgLS0+CiAgICA8ZGltZW4gbmFtZT0iYm90dG9tX3NoZWV0X2Nvcm5lcl9yYWRpdXMiPjI0ZHA8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9ImJvdHRvbV9zaGVldF9wZWVrX2hlaWdodCI+ODBkcDwvZGltZW4+CjwvcmVzb3VyY2VzPgo=
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xxl">48dp</dimen>
+
+    <!-- Card -->
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+
+    <!-- Button -->
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_corner_radius">28dp</dimen>
+
+    <!-- Icon -->
+    <dimen name="icon_size_sm">20dp</dimen>
+    <dimen name="icon_size_md">24dp</dimen>
+    <dimen name="icon_size_lg">32dp</dimen>
+    <dimen name="icon_size_xl">48dp</dimen>
+
+    <!-- Text -->
+    <dimen name="text_size_caption">11sp</dimen>
+    <dimen name="text_size_body">14sp</dimen>
+    <dimen name="text_size_subtitle">16sp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_headline">28sp</dimen>
+    <dimen name="text_size_display">36sp</dimen>
+
+    <!-- Scan window -->
+    <dimen name="scan_window_size">280dp</dimen>
+    <dimen name="scan_corner_length">40dp</dimen>
+    <dimen name="scan_corner_width">4dp</dimen>
+    <dimen name="scan_line_height">2dp</dimen>
+
+    <!-- Bottom sheet -->
+    <dimen name="bottom_sheet_corner_radius">24dp</dimen>
+    <dimen name="bottom_sheet_peek_height">80dp</dimen>
+</resources>
