@@ -1,1 +1,203 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5udW1zY2FuCgppbXBvcnQgYW5kcm9pZC5NYW5pZmVzdAppbXBvcnQgYW5kcm9pZC5hbmltYXRpb24uT2JqZWN0QW5pbWF0b3IKaW1wb3J0IGFuZHJvaWQuYW5pbWF0aW9uLlZhbHVlQW5pbWF0b3IKaW1wb3J0IGFuZHJvaWQuY29udGVudC5DbGlwRGF0YQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNsaXBib2FyZE1hbmFnZXIKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0CmltcG9ydCBhbmRyb2lkLmNvbnRlbnQucG0uUGFja2FnZU1hbmFnZXIKaW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlCmltcG9ydCBhbmRyb2lkLm9zLlZpYnJhdGlvbkVmZmVjdAppbXBvcnQgYW5kcm9pZC5vcy5WaWJyYXRvcgppbXBvcnQgYW5kcm9pZC52aWV3LlZpZXcKaW1wb3J0IGFuZHJvaWQudmlldy5hbmltYXRpb24uQW5pbWF0aW9uVXRpbHMKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkltYWdlQnV0dG9uCmltcG9ydCBhbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3CmltcG9ydCBhbmRyb2lkLndpZGdldC5Ub2FzdAppbXBvcnQgYW5kcm9pZHguYWN0aXZpdHkucmVzdWx0LmNvbnRyYWN0LkFjdGl2aXR5UmVzdWx0Q29udHJhY3RzCmltcG9ydCBhbmRyb2lkeC5hcHBjb21wYXQuYXBwLkFwcENvbXBhdEFjdGl2aXR5CmltcG9ydCBhbmRyb2lkeC5jYW1lcmEuY29yZS4qCmltcG9ydCBhbmRyb2lkeC5jYW1lcmEubGlmZWN5Y2xlLlByb2Nlc3NDYW1lcmFQcm92aWRlcgppbXBvcnQgYW5kcm9pZHguY2FtZXJhLnZpZXcuUHJldmlld1ZpZXcKaW1wb3J0IGFuZHJvaWR4LmNvcmUuY29udGVudC5Db250ZXh0Q29tcGF0CmltcG9ydCBjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwuZmxvYXRpbmdhY3Rpb25idXR0b24uRmxvYXRpbmdBY3Rpb25CdXR0b24KaW1wb3J0IGNvbS5nb29nbGUubWxraXQudmlzaW9uLmNvbW1vbi5JbnB1dEltYWdlCmltcG9ydCBjb20uZ29vZ2xlLm1sa2l0LnZpc2lvbi50ZXh0LlRleHRSZWNvZ25pdGlvbgppbXBvcnQgY29tLmdvb2dsZS5tbGtpdC52aXNpb24udGV4dC5sYXRpbi5UZXh0UmVjb2duaXplck9wdGlvbnMKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZQppbXBvcnQgamF2YS51dGlsLmNvbmN1cnJlbnQuRXhlY3V0b3JzCgpjbGFzcyBTY2FuQWN0aXZpdHkgOiBBcHBDb21wYXRBY3Rpdml0eSgpIHsKCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBwcmV2aWV3VmlldzogUHJldmlld1ZpZXcKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHNjYW5MaW5lOiBWaWV3CiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBzY2FuV2luZG93OiBWaWV3CiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBudW1iZXJzQ29udGFpbmVyOiBMaW5lYXJMYXlvdXQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHR2SGludDogVGV4dFZpZXcKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGNhbWVyYUxheW91dDogVmlldwogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgcGVybWlzc2lvbkxheW91dDogVmlldwoKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGNhbWVyYUV4ZWN1dG9yOiBFeGVjdXRvclNlcnZpY2UKICAgIHByaXZhdGUgdmFsIHJlY29nbml6ZXIgPSBUZXh0UmVjb2duaXRpb24uZ2V0Q2xpZW50KFRleHRSZWNvZ25pemVyT3B0aW9ucy5ERUZBVUxUX09QVElPTlMpCiAgICBwcml2YXRlIHZhciBsYXN0TnVtYmVycyA9IGxpc3RPZjxQaG9uZU51bWJlclJlc3VsdD4oKQogICAgcHJpdmF0ZSB2YXIgc2NhbkxpbmVBbmltYXRvcjogT2JqZWN0QW5pbWF0b3I/ID0gbnVsbAoKICAgIHByaXZhdGUgdmFsIHBlcm1pc3Npb25MYXVuY2hlciA9IHJlZ2lzdGVyRm9yQWN0aXZpdHlSZXN1bHQoCiAgICAgICAgQWN0aXZpdHlSZXN1bHRDb250cmFjdHMuUmVxdWVzdFBlcm1pc3Npb24oKQogICAgKSB7IGdyYW50ZWQgLT4KICAgICAgICBpZiAoZ3JhbnRlZCkgc2hvd0NhbWVyYSgpIGVsc2Ugc2hvd1Blcm1pc3Npb25EZW5pZWQoKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfc2NhbikKCiAgICAgICAgcHJldmlld1ZpZXcgPSBmaW5kVmlld0J5SWQoUi5pZC5wcmV2aWV3VmlldykKICAgICAgICBzY2FuTGluZSA9IGZpbmRWaWV3QnlJZChSLmlkLnNjYW5MaW5lKQogICAgICAgIHNjYW5XaW5kb3cgPSBmaW5kVmlld0J5SWQoUi5pZC5zY2FuV2luZG93KQogICAgICAgIG51bWJlcnNDb250YWluZXIgPSBmaW5kVmlld0J5SWQoUi5pZC5udW1iZXJzQ29udGFpbmVyKQogICAgICAgIHR2SGludCA9IGZpbmRWaWV3QnlJZChSLmlkLnR2SGludCkKICAgICAgICBjYW1lcmFMYXlvdXQgPSBmaW5kVmlld0J5SWQoUi5pZC5jYW1lcmFMYXlvdXQpCiAgICAgICAgcGVybWlzc2lvbkxheW91dCA9IGZpbmRWaWV3QnlJZChSLmlkLnBlcm1pc3Npb25MYXlvdXQpCgogICAgICAgIGZpbmRWaWV3QnlJZDxGbG9hdGluZ0FjdGlvbkJ1dHRvbj4oUi5pZC5idG5CYWNrKS5zZXRPbkNsaWNrTGlzdGVuZXIgeyBmaW5pc2goKSB9CiAgICAgICAgZmluZFZpZXdCeUlkPFZpZXc+KFIuaWQuYnRuR3JhbnRQZXJtaXNzaW9uKS5zZXRPbkNsaWNrTGlzdGVuZXIgewogICAgICAgICAgICBwZXJtaXNzaW9uTGF1bmNoZXIubGF1bmNoKE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKQogICAgICAgIH0KCiAgICAgICAgY2FtZXJhRXhlY3V0b3IgPSBFeGVjdXRvcnMubmV3U2luZ2xlVGhyZWFkRXhlY3V0b3IoKQoKICAgICAgICBpZiAoQ29udGV4dENvbXBhdC5jaGVja1NlbGZQZXJtaXNzaW9uKHRoaXMsIE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKQogICAgICAgICAgICA9PSBQYWNrYWdlTWFuYWdlci5QRVJNSVNTSU9OX0dSQU5URUQpIHsKICAgICAgICAgICAgc2hvd0NhbWVyYSgpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcGVybWlzc2lvbkxhdW5jaGVyLmxhdW5jaChNYW5pZmVzdC5wZXJtaXNzaW9uLkNBTUVSQSkKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gc2hvd0NhbWVyYSgpIHsKICAgICAgICBjYW1lcmFMYXlvdXQudmlzaWJpbGl0eSA9IFZpZXcuVklTSUJMRQogICAgICAgIHBlcm1pc3Npb25MYXlvdXQudmlzaWJpbGl0eSA9IFZpZXcuR09ORQogICAgICAgIHN0YXJ0Q2FtZXJhKCkKICAgICAgICBzdGFydFNjYW5MaW5lQW5pbWF0aW9uKCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBzaG93UGVybWlzc2lvbkRlbmllZCgpIHsKICAgICAgICBjYW1lcmFMYXlvdXQudmlzaWJpbGl0eSA9IFZpZXcuR09ORQogICAgICAgIHBlcm1pc3Npb25MYXlvdXQudmlzaWJpbGl0eSA9IFZpZXcuVklTSUJMRQogICAgfQoKICAgIHByaXZhdGUgZnVuIHN0YXJ0Q2FtZXJhKCkgewogICAgICAgIHZhbCBjYW1lcmFQcm92aWRlckZ1dHVyZSA9IFByb2Nlc3NDYW1lcmFQcm92aWRlci5nZXRJbnN0YW5jZSh0aGlzKQogICAgICAgIGNhbWVyYVByb3ZpZGVyRnV0dXJlLmFkZExpc3RlbmVyKHsKICAgICAgICAgICAgdmFsIGNhbWVyYVByb3ZpZGVyID0gY2FtZXJhUHJvdmlkZXJGdXR1cmUuZ2V0KCkKCiAgICAgICAgICAgIHZhbCBwcmV2aWV3ID0gUHJldmlldy5CdWlsZGVyKCkuYnVpbGQoKS5hbHNvIHsKICAgICAgICAgICAgICAgIGl0LnNldFN1cmZhY2VQcm92aWRlcihwcmV2aWV3Vmlldy5zdXJmYWNlUHJvdmlkZXIpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhbCBpbWFnZUFuYWx5emVyID0gSW1hZ2VBbmFseXNpcy5CdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5zZXRCYWNrcHJlc3N1cmVTdHJhdGVneShJbWFnZUFuYWx5c2lzLlNUUkFURUdZX0tFRVBfT05MWV9MQVRFU1QpCiAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgLmFsc28gewogICAgICAgICAgICAgICAgICAgIGl0LnNldEFuYWx5emVyKGNhbWVyYUV4ZWN1dG9yLCA6OmFuYWx5emVJbWFnZSkKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBjYW1lcmFQcm92aWRlci51bmJpbmRBbGwoKQogICAgICAgICAgICAgICAgY2FtZXJhUHJvdmlkZXIuYmluZFRvTGlmZWN5Y2xlKAogICAgICAgICAgICAgICAgICAgIHRoaXMsIENhbWVyYVNlbGVjdG9yLkRFRkFVTFRfQkFDS19DQU1FUkEsIHByZXZpZXcsIGltYWdlQW5hbHl6ZXIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgICAgIH0KICAgICAgICB9LCBDb250ZXh0Q29tcGF0LmdldE1haW5FeGVjdXRvcih0aGlzKSkKICAgIH0KCiAgICBAYW5kcm9pZHguY2FtZXJhLmNvcmUuRXhwZXJpbWVudGFsR2V0SW1hZ2UKICAgIHByaXZhdGUgZnVuIGFuYWx5emVJbWFnZShpbWFnZVByb3h5OiBJbWFnZVByb3h5KSB7CiAgICAgICAgdmFsIG1lZGlhSW1hZ2UgPSBpbWFnZVByb3h5LmltYWdlID86IHJ1biB7IGltYWdlUHJveHkuY2xvc2UoKTsgcmV0dXJuIH0KICAgICAgICB2YWwgaW1hZ2UgPSBJbnB1dEltYWdlLmZyb21NZWRpYUltYWdlKG1lZGlhSW1hZ2UsIGltYWdlUHJveHkuaW1hZ2VJbmZvLnJvdGF0aW9uRGVncmVlcykKCiAgICAgICAgcmVjb2duaXplci5wcm9jZXNzKGltYWdlKQogICAgICAgICAgICAuYWRkT25TdWNjZXNzTGlzdGVuZXIgeyB2aXNpb25UZXh0IC0+CiAgICAgICAgICAgICAgICB2YWwgbnVtYmVycyA9IFBob25lTnVtYmVyRW5naW5lLmV4dHJhY3RQaG9uZU51bWJlcnModmlzaW9uVGV4dC50ZXh0KQogICAgICAgICAgICAgICAgaWYgKG51bWJlcnMgIT0gbGFzdE51bWJlcnMpIHsKICAgICAgICAgICAgICAgICAgICBsYXN0TnVtYmVycyA9IG51bWJlcnMKICAgICAgICAgICAgICAgICAgICBydW5PblVpVGhyZWFkIHsgdXBkYXRlUmVzdWx0cyhudW1iZXJzKSB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLmFkZE9uQ29tcGxldGVMaXN0ZW5lciB7IGltYWdlUHJveHkuY2xvc2UoKSB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gdXBkYXRlUmVzdWx0cyhudW1iZXJzOiBMaXN0PFBob25lTnVtYmVyUmVzdWx0PikgewogICAgICAgIG51bWJlcnNDb250YWluZXIucmVtb3ZlQWxsVmlld3MoKQogICAgICAgIGlmIChudW1iZXJzLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0dkhpbnQudGV4dCA9IGdldFN0cmluZyhSLnN0cmluZy5ub19udW1iZXJzX2ZvdW5kKQogICAgICAgICAgICB0dkhpbnQudmlzaWJpbGl0eSA9IFZpZXcuVklTSUJMRQogICAgICAgICAgICByZXR1cm4KICAgICAgICB9CiAgICAgICAgdHZIaW50LnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcudGFwX3RvX2NvcHkpCiAgICAgICAgdHZIaW50LnZpc2liaWxpdHkgPSBWaWV3LlZJU0lCTEUKCiAgICAgICAgdmFsIGluZmxhdGVyID0gbGF5b3V0SW5mbGF0ZXIKICAgICAgICBudW1iZXJzLmZvckVhY2ggeyByZXN1bHQgLT4KICAgICAgICAgICAgdmFsIGl0ZW1WaWV3ID0gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5pdGVtX3Bob25lX251bWJlciwgbnVtYmVyc0NvbnRhaW5lciwgZmFsc2UpCiAgICAgICAgICAgIGl0ZW1WaWV3LmZpbmRWaWV3QnlJZDxUZXh0Vmlldz4oUi5pZC50dlBob25lTnVtYmVyKS50ZXh0ID0gcmVzdWx0LmZvcm1hdHRlZE51bWJlcgogICAgICAgICAgICB2YWwgdHZDQyA9IGl0ZW1WaWV3LmZpbmRWaWV3QnlJZDxUZXh0Vmlldz4oUi5pZC50dkNvdW50cnlDb2RlKQogICAgICAgICAgICBpZiAocmVzdWx0LmNvdW50cnlDb2RlICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHR2Q0MudGV4dCA9IHJlc3VsdC5jb3VudHJ5Q29kZQogICAgICAgICAgICAgICAgdHZDQy52aXNpYmlsaXR5ID0gVmlldy5WSVNJQkxFCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0dkNDLnZpc2liaWxpdHkgPSBWaWV3LkdPTkUKICAgICAgICAgICAgfQogICAgICAgICAgICBpdGVtVmlldy5maW5kVmlld0J5SWQ8SW1hZ2VCdXR0b24+KFIuaWQuYnRuQ29weSkuc2V0T25DbGlja0xpc3RlbmVyIHsKICAgICAgICAgICAgICAgIGNvcHlUb0NsaXBib2FyZChyZXN1bHQuZm9ybWF0dGVkTnVtYmVyKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGl0ZW1WaWV3LnNldE9uQ2xpY2tMaXN0ZW5lciB7IGNvcHlUb0NsaXBib2FyZChyZXN1bHQuZm9ybWF0dGVkTnVtYmVyKSB9CiAgICAgICAgICAgIGl0ZW1WaWV3LnN0YXJ0QW5pbWF0aW9uKEFuaW1hdGlvblV0aWxzLmxvYWRBbmltYXRpb24odGhpcywgUi5hbmltLnNsaWRlX3VwKSkKICAgICAgICAgICAgbnVtYmVyc0NvbnRhaW5lci5hZGRWaWV3KGl0ZW1WaWV3KQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBjb3B5VG9DbGlwYm9hcmQobnVtYmVyOiBTdHJpbmcpIHsKICAgICAgICB2YWwgY2xpcGJvYXJkID0gZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LkNMSVBCT0FSRF9TRVJWSUNFKSBhcyBDbGlwYm9hcmRNYW5hZ2VyCiAgICAgICAgY2xpcGJvYXJkLnNldFByaW1hcnlDbGlwKENsaXBEYXRhLm5ld1BsYWluVGV4dCgiUGhvbmUgTnVtYmVyIiwgbnVtYmVyKSkKICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCBnZXRTdHJpbmcoUi5zdHJpbmcuY29waWVkX3RvX2NsaXBib2FyZCwgbnVtYmVyKSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkKICAgICAgICB2aWJyYXRlKCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biB2aWJyYXRlKCkgewogICAgICAgIHZhbCB2aWJyYXRvciA9IGdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5WSUJSQVRPUl9TRVJWSUNFKSBhcyBWaWJyYXRvcgogICAgICAgIGlmIChhbmRyb2lkLm9zLkJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBhbmRyb2lkLm9zLkJ1aWxkLlZFUlNJT05fQ09ERVMuTykgewogICAgICAgICAgICB2aWJyYXRvci52aWJyYXRlKFZpYnJhdGlvbkVmZmVjdC5jcmVhdGVPbmVTaG90KDQwLCBWaWJyYXRpb25FZmZlY3QuREVGQVVMVF9BTVBMSVRVREUpKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIEBTdXBwcmVzcygiREVQUkVDQVRJT04iKQogICAgICAgICAgICB2aWJyYXRvci52aWJyYXRlKDQwKQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBzdGFydFNjYW5MaW5lQW5pbWF0aW9uKCkgewogICAgICAgIHNjYW5XaW5kb3cucG9zdCB7CiAgICAgICAgICAgIHZhbCB3aW5kb3dUb3AgPSBzY2FuV2luZG93LnRvcAogICAgICAgICAgICB2YWwgd2luZG93Qm90dG9tID0gc2NhbldpbmRvdy5ib3R0b20KICAgICAgICAgICAgdmFsIHJhbmdlID0gKHdpbmRvd0JvdHRvbSAtIHdpbmRvd1RvcCkudG9GbG9hdCgpCgogICAgICAgICAgICBzY2FuTGluZUFuaW1hdG9yID0gT2JqZWN0QW5pbWF0b3Iub2ZGbG9hdChzY2FuTGluZSwgInRyYW5zbGF0aW9uWSIsIC1yYW5nZSAvIDIsIHJhbmdlIC8gMikuYXBwbHkgewogICAgICAgICAgICAgICAgZHVyYXRpb24gPSAyMDAwCiAgICAgICAgICAgICAgICByZXBlYXRDb3VudCA9IFZhbHVlQW5pbWF0b3IuSU5GSU5JVEUKICAgICAgICAgICAgICAgIHJlcGVhdE1vZGUgPSBWYWx1ZUFuaW1hdG9yLlJFVkVSU0UKICAgICAgICAgICAgICAgIHN0YXJ0KCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25EZXN0cm95KCkgewogICAgICAgIHN1cGVyLm9uRGVzdHJveSgpCiAgICAgICAgc2NhbkxpbmVBbmltYXRvcj8uY2FuY2VsKCkKICAgICAgICBjYW1lcmFFeGVjdXRvci5zaHV0ZG93bigpCiAgICAgICAgcmVjb2duaXplci5jbG9zZSgpCiAgICB9Cn0K
+package com.example.numscan
+
+import android.Manifest
+import android.animation.ObjectAnimator
+import android.animation.ValueAnimator
+import android.content.ClipData
+import android.content.ClipboardManager
+import android.content.Context
+import android.content.pm.PackageManager
+import android.os.Bundle
+import android.os.VibrationEffect
+import android.os.Vibrator
+import android.view.View
+import android.view.animation.AnimationUtils
+import android.widget.ImageButton
+import android.widget.LinearLayout
+import android.widget.TextView
+import android.widget.Toast
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.appcompat.app.AppCompatActivity
+import androidx.camera.core.*
+import androidx.camera.lifecycle.ProcessCameraProvider
+import androidx.camera.view.PreviewView
+import androidx.core.content.ContextCompat
+import com.google.android.material.floatingactionbutton.FloatingActionButton
+import com.google.mlkit.vision.common.InputImage
+import com.google.mlkit.vision.text.TextRecognition
+import com.google.mlkit.vision.text.latin.TextRecognizerOptions
+import java.util.concurrent.ExecutorService
+import java.util.concurrent.Executors
+
+class ScanActivity : AppCompatActivity() {
+
+    private lateinit var previewView: PreviewView
+    private lateinit var scanLine: View
+    private lateinit var scanWindow: View
+    private lateinit var numbersContainer: LinearLayout
+    private lateinit var tvHint: TextView
+    private lateinit var cameraLayout: View
+    private lateinit var permissionLayout: View
+
+    private lateinit var cameraExecutor: ExecutorService
+    private val recognizer = TextRecognition.getClient(TextRecognizerOptions.DEFAULT_OPTIONS)
+    private var lastNumbers = listOf<PhoneNumberResult>()
+    private var scanLineAnimator: ObjectAnimator? = null
+
+    private val permissionLauncher = registerForActivityResult(
+        ActivityResultContracts.RequestPermission()
+    ) { granted ->
+        if (granted) showCamera() else showPermissionDenied()
+    }
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_scan)
+
+        previewView = findViewById(R.id.previewView)
+        scanLine = findViewById(R.id.scanLine)
+        scanWindow = findViewById(R.id.scanWindow)
+        numbersContainer = findViewById(R.id.numbersContainer)
+        tvHint = findViewById(R.id.tvHint)
+        cameraLayout = findViewById(R.id.cameraLayout)
+        permissionLayout = findViewById(R.id.permissionLayout)
+
+        findViewById<FloatingActionButton>(R.id.btnBack).setOnClickListener { finish() }
+        findViewById<View>(R.id.btnGrantPermission).setOnClickListener {
+            permissionLauncher.launch(Manifest.permission.CAMERA)
+        }
+
+        cameraExecutor = Executors.newSingleThreadExecutor()
+
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA)
+            == PackageManager.PERMISSION_GRANTED) {
+            showCamera()
+        } else {
+            permissionLauncher.launch(Manifest.permission.CAMERA)
+        }
+    }
+
+    private fun showCamera() {
+        cameraLayout.visibility = View.VISIBLE
+        permissionLayout.visibility = View.GONE
+        startCamera()
+        startScanLineAnimation()
+    }
+
+    private fun showPermissionDenied() {
+        cameraLayout.visibility = View.GONE
+        permissionLayout.visibility = View.VISIBLE
+    }
+
+    private fun startCamera() {
+        val cameraProviderFuture = ProcessCameraProvider.getInstance(this)
+        cameraProviderFuture.addListener({
+            val cameraProvider = cameraProviderFuture.get()
+
+            val preview = Preview.Builder().build().also {
+                it.setSurfaceProvider(previewView.surfaceProvider)
+            }
+
+            val imageAnalyzer = ImageAnalysis.Builder()
+                .setBackpressureStrategy(ImageAnalysis.STRATEGY_KEEP_ONLY_LATEST)
+                .build()
+                .also {
+                    it.setAnalyzer(cameraExecutor, ::analyzeImage)
+                }
+
+            try {
+                cameraProvider.unbindAll()
+                cameraProvider.bindToLifecycle(
+                    this, CameraSelector.DEFAULT_BACK_CAMERA, preview, imageAnalyzer
+                )
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }, ContextCompat.getMainExecutor(this))
+    }
+
+    @androidx.camera.core.ExperimentalGetImage
+    private fun analyzeImage(imageProxy: ImageProxy) {
+        val mediaImage = imageProxy.image ?: run { imageProxy.close(); return }
+        val image = InputImage.fromMediaImage(mediaImage, imageProxy.imageInfo.rotationDegrees)
+
+        recognizer.process(image)
+            .addOnSuccessListener { visionText ->
+                val numbers = PhoneNumberEngine.extractPhoneNumbers(visionText.text)
+                if (numbers != lastNumbers) {
+                    lastNumbers = numbers
+                    runOnUiThread { updateResults(numbers) }
+                }
+            }
+            .addOnCompleteListener { imageProxy.close() }
+    }
+
+    private fun updateResults(numbers: List<PhoneNumberResult>) {
+        numbersContainer.removeAllViews()
+        if (numbers.isEmpty()) {
+            tvHint.text = getString(R.string.no_numbers_found)
+            tvHint.visibility = View.VISIBLE
+            return
+        }
+        tvHint.text = getString(R.string.tap_to_copy)
+        tvHint.visibility = View.VISIBLE
+
+        val inflater = layoutInflater
+        numbers.forEach { result ->
+            val itemView = inflater.inflate(R.layout.item_phone_number, numbersContainer, false)
+            itemView.findViewById<TextView>(R.id.tvPhoneNumber).text = result.formattedNumber
+            val tvCC = itemView.findViewById<TextView>(R.id.tvCountryCode)
+            if (result.countryCode != null) {
+                tvCC.text = result.countryCode
+                tvCC.visibility = View.VISIBLE
+            } else {
+                tvCC.visibility = View.GONE
+            }
+            itemView.findViewById<ImageButton>(R.id.btnCopy).setOnClickListener {
+                copyToClipboard(result.formattedNumber)
+            }
+            itemView.setOnClickListener { copyToClipboard(result.formattedNumber) }
+            itemView.startAnimation(AnimationUtils.loadAnimation(this, R.anim.slide_up))
+            numbersContainer.addView(itemView)
+        }
+    }
+
+    private fun copyToClipboard(number: String) {
+        val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
+        clipboard.setPrimaryClip(ClipData.newPlainText("Phone Number", number))
+        Toast.makeText(this, getString(R.string.copied_to_clipboard, number), Toast.LENGTH_SHORT).show()
+        vibrate()
+    }
+
+    private fun vibrate() {
+        val vibrator = getSystemService(Context.VIBRATOR_SERVICE) as Vibrator
+        if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+            vibrator.vibrate(VibrationEffect.createOneShot(40, VibrationEffect.DEFAULT_AMPLITUDE))
+        } else {
+            @Suppress("DEPRECATION")
+            vibrator.vibrate(40)
+        }
+    }
+
+    private fun startScanLineAnimation() {
+        scanWindow.post {
+            val windowTop = scanWindow.top
+            val windowBottom = scanWindow.bottom
+            val range = (windowBottom - windowTop).toFloat()
+
+            scanLineAnimator = ObjectAnimator.ofFloat(scanLine, "translationY", -range / 2, range / 2).apply {
+                duration = 2000
+                repeatCount = ValueAnimator.INFINITE
+                repeatMode = ValueAnimator.REVERSE
+                start()
+            }
+        }
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        scanLineAnimator?.cancel()
+        cameraExecutor.shutdown()
+        recognizer.close()
+    }
+}
