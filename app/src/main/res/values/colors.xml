@@ -38,6 +38,7 @@
     <color name="ripple">#2000E5FF</color>
     <color name="badge_background">#1A00E5FF</color>
     <color name="white">#FFFFFF</color>
+    <color name="ic_launcher_background">#2196F3</color>
     <color name="black">#000000</color>
     <color name="transparent">#00000000</color>
 </resources>
