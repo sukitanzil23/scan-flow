@@ -1,1 +1,9 @@
-PHZlY3RvciB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOndpZHRoPSIyNGRwIgogICAgYW5kcm9pZDpoZWlnaHQ9IjI0ZHAiCiAgICBhbmRyb2lkOnZpZXdwb3J0V2lkdGg9IjI0IgogICAgYW5kcm9pZDp2aWV3cG9ydEhlaWdodD0iMjQiPgogICAgPHBhdGgKICAgICAgICBhbmRyb2lkOmZpbGxDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCiAgICAgICAgYW5kcm9pZDpwYXRoRGF0YT0iTTIwLDExSDcuODNMMTMuNDIsNS40MUwxMiw0TDQsMTJMMTIsMjBMMTMuNDEsMTguNTlMNy44MywxM0gyMFYxMVoiIC8+CjwvdmVjdG9yPg==
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M20,11H7.83L13.42,5.41L12,4L4,12L12,20L13.41,18.59L7.83,13H20V11Z" />
+</vector>
