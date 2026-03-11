@@ -1,1 +1,14 @@
-IyBBZGQgcHJvamVjdCBzcGVjaWZpYyBQcm9HdWFyZCBydWxlcyBoZXJlLgojIFlvdSBjYW4gY29udHJvbCB0aGUgc2V0IG9mIGFwcGxpZWQgY29uZmlndXJhdGlvbiBmaWxlcyB1c2luZyB0aGUKIyBwcm9ndWFyZEZpbGVzIHNldHRpbmcgaW4gYnVpbGQuZ3JhZGxlLgoKIyBLZWVwIE1MIEtpdCBjbGFzc2VzCi1rZWVwIGNsYXNzIGNvbS5nb29nbGUubWxraXQuKiogeyAqOyB9Ci1kb250d2FybiBjb20uZ29vZ2xlLm1sa2l0LioqCgojIEtlZXAgQ2FtZXJhWCBjbGFzc2VzCi1rZWVwIGNsYXNzIGFuZHJvaWR4LmNhbWVyYS4qKiB7ICo7IH0KLWRvbnR3YXJuIGFuZHJvaWR4LmNhbWVyYS4qKgoKIyBLZWVwIGFwcCBtb2RlbCBjbGFzc2VzCi1rZWVwIGNsYXNzIGNvbS5leGFtcGxlLm51bXNjYW4uKiogeyAqOyB9Cg==
+# Add project specific ProGuard rules here.
+# You can control the set of applied configuration files using the
+# proguardFiles setting in build.gradle.
+
+# Keep ML Kit classes
+-keep class com.google.mlkit.** { *; }
+-dontwarn com.google.mlkit.**
+
+# Keep CameraX classes
+-keep class androidx.camera.** { *; }
+-dontwarn androidx.camera.**
+
+# Keep app model classes
+-keep class com.example.numscan.** { *; }
