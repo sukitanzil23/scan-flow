@@ -1,1 +1,6 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFscGhhIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6ZHVyYXRpb249IjM1MCIKICAgIGFuZHJvaWQ6ZnJvbUFscGhhPSIwLjAiCiAgICBhbmRyb2lkOnRvQWxwaGE9IjEuMCIKICAgIGFuZHJvaWQ6aW50ZXJwb2xhdG9yPSJAYW5kcm9pZDppbnRlcnBvbGF0b3IvZGVjZWxlcmF0ZV9xdWFkIiAvPg==
+<?xml version="1.0" encoding="utf-8"?>
+<alpha xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="350"
+    android:fromAlpha="0.0"
+    android:toAlpha="1.0"
+    android:interpolator="@android:interpolator/decelerate_quad" />
