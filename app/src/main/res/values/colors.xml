@@ -1,1 +1,43 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlcz4KICAgIDwhLS0gUHJpbWFyeSBwYWxldHRlIC0tPgogICAgPGNvbG9yIG5hbWU9InByaW1hcnkiPiMwMEU1RkY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InByaW1hcnlfZGFyayI+IzAwQjJDQzwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0icHJpbWFyeV92YXJpYW50Ij4jMThGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJhY2NlbnQiPiNGRjZEMDA8L2NvbG9yPgoKICAgIDwhLS0gQmFja2dyb3VuZCAtLT4KICAgIDxjb2xvciBuYW1lPSJiYWNrZ3JvdW5kIj4jMEEwRTFBPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzdXJmYWNlIj4jMTExODI3PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzdXJmYWNlX2VsZXZhdGVkIj4jMUMyMzMzPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJjYXJkX2JhY2tncm91bmQiPiMxNDFEMkU8L2NvbG9yPgoKICAgIDwhLS0gVGV4dCAtLT4KICAgIDxjb2xvciBuYW1lPSJ0ZXh0X3ByaW1hcnkiPiNGRkZGRkY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InRleHRfc2Vjb25kYXJ5Ij4jQjBCRUM1PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ0ZXh0X2hpbnQiPiM1NDZFN0E8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InRleHRfb25fcHJpbWFyeSI+IzAwMDAwMDwvY29sb3I+CgogICAgPCEtLSBBbGlhc2VzIHVzZWQgaW4gbGF5b3V0cyAtLT4KICAgIDxjb2xvciBuYW1lPSJvbl9iYWNrZ3JvdW5kIj4jRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJvbl9iYWNrZ3JvdW5kX3NlY29uZGFyeSI+IzhDQTBCODwvY29sb3I+CgogICAgPCEtLSBTdGF0dXMgLS0+CiAgICA8Y29sb3IgbmFtZT0ic3VjY2VzcyI+IzAwRTY3NjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0id2FybmluZyI+I0ZGRDc0MDwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iZXJyb3IiPiNGRjUyNTI8L2NvbG9yPgoKICAgIDwhLS0gU2NhbiBVSSAtLT4KICAgIDxjb2xvciBuYW1lPSJzY2FuX2xpbmUiPiMwMEU1RkY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InNjYW5fYm9yZGVyIj4jMDBFNUZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzY2FuX292ZXJsYXkiPiM5OTAwMDAwMDwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ic2Nhbl9jb3JuZXIiPiMwMEU1RkY8L2NvbG9yPgoKICAgIDwhLS0gTWlzYyAtLT4KICAgIDxjb2xvciBuYW1lPSJkaXZpZGVyIj4jMUUyRDNEPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJyaXBwbGUiPiMyMDAwRTVGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iYmFkZ2VfYmFja2dyb3VuZCI+IzFBMDBFNUZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I0ZGRkZGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iYmxhY2siPiMwMDAwMDA8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InRyYW5zcGFyZW50Ij4jMDAwMDAwMDA8L2NvbG9yPgo8L3Jlc291cmNlcz4K
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary palette -->
+    <color name="primary">#00E5FF</color>
+    <color name="primary_dark">#00B2CC</color>
+    <color name="primary_variant">#18FFFF</color>
+    <color name="accent">#FF6D00</color>
+
+    <!-- Background -->
+    <color name="background">#0A0E1A</color>
+    <color name="surface">#111827</color>
+    <color name="surface_elevated">#1C2333</color>
+    <color name="card_background">#141D2E</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="text_hint">#546E7A</color>
+    <color name="text_on_primary">#000000</color>
+
+    <!-- Aliases used in layouts -->
+    <color name="on_background">#FFFFFF</color>
+    <color name="on_background_secondary">#8CA0B8</color>
+
+    <!-- Status -->
+    <color name="success">#00E676</color>
+    <color name="warning">#FFD740</color>
+    <color name="error">#FF5252</color>
+
+    <!-- Scan UI -->
+    <color name="scan_line">#00E5FF</color>
+    <color name="scan_border">#00E5FF</color>
+    <color name="scan_overlay">#99000000</color>
+    <color name="scan_corner">#00E5FF</color>
+
+    <!-- Misc -->
+    <color name="divider">#1E2D3D</color>
+    <color name="ripple">#2000E5FF</color>
+    <color name="badge_background">#1A00E5FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
